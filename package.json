@@ -2,5 +2,14 @@
   "name": "anagram-frontend",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "elm": "^0.19.1-5",
+    "elm-format": "^0.8.4",
+    "elm-hot": "^1.1.6",
+    "elm-test": "^0.19.1-revision6",
+    "node-elm-compiler": "^5.0.5",
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {}
 }

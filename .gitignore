@@ -1,0 +1,6 @@
+.idea
+.cache
+node_modules
+yarn-error.log
+elm-stuff
+dist
